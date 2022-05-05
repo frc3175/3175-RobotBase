@@ -2,7 +2,7 @@
 This class is based off of Team Fusion 364's class
 */
 
-package frc.lib.math;
+package com.team3175.frc.lib.mathmath;
 
 public class Conversions {
 
